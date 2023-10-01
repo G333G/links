@@ -1,0 +1,23 @@
+[
+  {
+    "id": 11,
+    "nombre": "Playera FOG",
+    "talla": "M",
+    "precio": 299,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090610314588270/fog.jpg?ex=651afb6d&is=6519a9ed&hm=4c63f5426ae5d32f8e2809b71245c33af7f1f2a94947df89dc2bce63f3e5f62e&"
+  },
+  {
+    "id": 22,
+    "nombre": "Hoodie Anti Social Social Club",
+    "talla": "L",
+    "precio": 399,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090548171767818/anti.jpg?ex=651afb5e&is=6519a9de&hm=70d94df3c73dff791266536aca32d3dad56af46986de8d6b5dba8b967ac8c6e0&"
+  },
+  {
+    "id": 261,
+    "nombre": "Harrington Polo Ralph Lauren 🐎",
+    "talla": "M",
+    "precio": 299,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090550935830558/po.jpg?ex=651afb5f&is=6519a9df&hm=b6d7ee088013354eab5a728bcbc4afc9bdddf97a746feaba8247b3c4d21499a5&"
+  }
+]
