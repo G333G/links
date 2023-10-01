@@ -1,0 +1,108 @@
+[
+  {
+    "id": 6,
+    "nombre": "Pantalón cargo verde",
+    "talla": "12",
+    "precio": 120,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090549883044032/pantalon_c_verde.png?ex=651afb5f&is=6519a9df&hm=86358ae4f0c20eb8a6a46359e32affc6f5753482abf6026c6f12ab956120527d&"
+  },
+  {
+    "id": 5,
+    "nombre": "Nike vintage 00s",
+    "talla": "S/M",
+    "precio": 250,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090610880811118/nike_vintage.png?ex=651afb6d&is=6519a9ed&hm=a969eb49f2a89170e9ebbb4a15c0e550dadd0f005e61b416caa9162cba9c0a63&"
+  },
+  {
+    "id": 4,
+    "nombre": "Hoodie champion",
+    "talla": "M",
+    "precio": 400,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090548742209596/champion_hoodie.png?ex=651afb5f&is=6519a9df&hm=52d3b411045044a32ded7d392c1c938bc49aac89af1dc5544494077b8679e6a7&"
+  },
+  {
+    "id": 3,
+    "nombre": "Short chino Polo Ralph Lauren",
+    "talla": "#36",
+    "precio": 200,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090612206207126/Short_chino_Polo_Ralph_Lauren_vintage.png?ex=651afb6e&is=6519a9ee&hm=8da7d757eac0f45813b0c4e28a2c99d5ae317ecc10fe4454e63c800571aac655&"
+  },
+  {
+    "id": 2,
+    "nombre": "Pants Nike 00s",
+    "talla": "XL/L",
+    "precio": 300,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090550520598718/Pants_Nike_00s.png?ex=651afb5f&is=6519a9df&hm=33a97d0b79506d234e9c6dae9efdce8b20ca097f402dbb111fa084720669aff3&"
+  },
+  {
+    "id": 1,
+    "nombre": "Air Force tee 80s/90s",
+    "talla": "L",
+    "precio": 200,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090547806879846/airforce.jpg?ex=651afb5e&is=6519a9de&hm=75f64745349e221764bcf7ba7546587de21a908e7e98e3aeeff3a79b4ef4e66b&"
+  },
+  {
+    "id": 199,
+    "nombre": "Hoodie guess x J Balvin",
+    "talla": "S",
+    "precio": 700,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090610566234142/Hoodie_guess.jpg?ex=651afb6d&is=6519a9ed&hm=0559f98c46fc6dff1344057a397523a11d1b8d20fb3948b709cc9190b62c8bd0&"
+  },
+  {
+    "id": 203,
+    "nombre": "Sit down bear Ralph Lauren",
+    "talla": "L",
+    "precio": 800,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090611610619984/ralph_lauren.jpg?ex=651afb6e&is=6519a9ee&hm=33d854e875db85cc740d23015ef25cc90f8329ead8742ebf54c90362eb7dfc4f&"
+  },
+  {
+    "id": 1001,
+    "nombre": "Sudadera Polo Ralph Lauren P wing",
+    "talla": "M",
+    "precio": 2000,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090611887452231/ralph_swag.jpg?ex=651afb6e&is=6519a9ee&hm=ed743c52f519fcce63b79ad19a27132fa244b02939c8b451ad0ddd956dc11e87&"
+  },
+  {
+    "id": 66,
+    "nombre": "Playera Vlone (F)",
+    "talla": "M",
+    "precio": 500,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090612638232646/vlone.jpg?ex=651afb6e&is=6519a9ee&hm=a1ee1c614198632faa81ec36da22ba1edb2a904e54772887ad3f204a83c10a14&"
+  },
+  {
+    "id": 130,
+    "nombre": "Puffer Polo Ralph Lauren 🐎",
+    "talla": "M/S",
+    "precio": 800,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090551191666881/polo.jpg?ex=651afb5f&is=6519a9df&hm=7ad10c7278e20ebd7403d1b9c0fcef2d0379baf7ea43d7ccc96a0a53fb778fda&"
+  },
+  {
+    "id": 1422,
+    "nombre": "Short Bape 🦈",
+    "talla": "M",
+    "precio": 200,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090548415057940/bape.jpg?ex=651afb5f&is=6519a9df&hm=829f92b2cc9b3f2201427fdcd144b6f475d7d42f72eb063e66691bf0cc9dc9c7&"
+  },
+  {
+    "id": 1958,
+    "nombre": "Abrigo Denim & Supply Ralph Lauren",
+    "talla": "S/M",
+    "precio": 600,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090549211975772/Denim.jpg?ex=651afb5f&is=6519a9df&hm=a2739d50b415a7fe81cae29cd7b3af49b0155ae771abc643982f076617fee988&"
+  },
+  {
+    "id": 204,
+    "nombre": "Crewneck Disney vintage",
+    "talla": "L",
+    "precio": 500,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090609928704072/disney.jpg?ex=651afb6d&is=6519a9ed&hm=d36a3fb663f520d339965212e483f10e809d4a58710ac08c63867961ec7619ca&"
+  },
+  {
+    "id": 295,
+    "nombre": "Chamarra The north Face 🏔",
+    "talla": "S",
+    "precio": 400,
+    "imagen": "https://cdn.discordapp.com/attachments/1154162111908417658/1158090611300249630/north.jpg?ex=651afb6e&is=6519a9ee&hm=c96b0975cef15e28383bc53648ec299ea6c7696b01f338d7778ec46f0f4bc84b&"
+
+  }
+]
